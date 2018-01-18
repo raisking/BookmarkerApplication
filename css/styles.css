@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+*{
+  font-family: 'Roboto', sans-serif;
+}
+#jumbo{
+  background-color: rgb(68, 179, 194);
+  padding: 30px;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+}
+.btn{
+  border-radius: 0;
+}
