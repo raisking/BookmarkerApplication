@@ -13,3 +13,8 @@
 .btn{
   border-radius: 0;
 }
+.well{
+  border-color: rgb(132, 203, 216);
+  padding: 5px;
+  margin: 5px;
+}
